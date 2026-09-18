@@ -1,14 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jhon%20Charles%20Almanacen%20Romero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jhon%20Charles%20Almanacen%20Romero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Product-Focused+Developer;5%2B+Years+Shipping+Production+Apps;React+%E2%86%92+Next.js+%E2%86%92+Node.js+%E2%86%92+PostgreSQL;I+build+systems+that+scale+and+make+money" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Product-Focused+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Production-Ready+Software" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhoncharlesjcar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/jhoncharlesjcar?label=Followers&style=social" alt="followers" />
+  <a href="mailto:labsjcar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jhoncharlesjcar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jhoncharlesjcar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/jhoncharlesjcar?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
 </div>
 
 <br>
@@ -18,11 +24,15 @@
 I build **revenue-generating, production-ready applications** for startups and businesses that need to move fast without breaking things.
 
 - **15+ production projects** delivered (hospitality, e-commerce, SaaS, automation)
-- **Full-stack ownership**: from UI → Next.js → Node.js → PostgreSQL → deploy → real users
+- **Full-stack ownership**: UI → Next.js → Node.js → PostgreSQL → deploy → real users
 - **Real business impact**: systems managing properties, monthly bookings, and live e-commerce stores
 - **US & International clients** — fluent in English & Spanish, based in Peru (UTC−5, US-friendly hours)
 
+<br>
+
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,27 +53,39 @@ I build **revenue-generating, production-ready applications** for startups and b
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
+</div>
+
+<br>
+
 ## 🏆 Featured Projects
 
-| Project | Description | Tech | Link |
-|-------|-------------|------|------|
-| **PMS JCAR Labs** | Full Property Management System for hotels & lodging businesses | Next.js • Node.js • PostgreSQL | [Repo](https://github.com/jhoncharlesjcar/pms-jcar-labs-inc) |
-| **Hotel Management Suite** | Multi-property hotel operations platform with real-time bookings | React • Node.js • Full-stack | [Repo](https://github.com/jhoncharlesjcar/Hotel-Management-System) |
-| **Restaurant SaaS** | SaaS platform for restaurant management and operations | TypeScript • SaaS architecture | [Repo](https://github.com/jhoncharlesjcar/sistema-SaaS-Restaurante-) |
-| **Nezus Jewelry** | E-commerce platform with product catalog, cart & order management | Next.js • TypeScript • Tailwind | [Repo](https://github.com/jhoncharlesjcar/nezus-bisuteria-website) |
-| **LuzmarBot** | Automation bot for community management | Node.js • Bot APIs • Real-time events | [Repo](https://github.com/jhoncharlesjcar/LuzmarBot) |
-| **JcarLabs Corporate** | Corporate website & internal tools | Next.js • JavaScript | [Repo](https://github.com/jhoncharlesjcar/jcarlabsinc-corp) |
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **PMS JCAR Labs** | Full Property Management System for hotels & lodging businesses | Next.js • Node.js • PostgreSQL | [🔗 Repo](https://github.com/jhoncharlesjcar/pms-jcar-labs-inc) |
+| **Hotel Management Suite** | Multi-property hotel operations platform with real-time bookings | React • Node.js • Full-stack | [🔗 Repo](https://github.com/jhoncharlesjcar/Hotel-Management-System) |
+| **Restaurant SaaS** | SaaS platform for restaurant management and operations | TypeScript • SaaS architecture | [🔗 Repo](https://github.com/jhoncharlesjcar/sistema-SaaS-Restaurante-) |
+| **Nezus Jewelry** | E-commerce platform with product catalog, cart & order management | Next.js • TypeScript • Tailwind | [🔗 Repo](https://github.com/jhoncharlesjcar/nezus-bisuteria-website) |
+| **LuzmarBot** | Automation bot for community management | Node.js • Bot APIs • Real-time events | [🔗 Repo](https://github.com/jhoncharlesjcar/LuzmarBot) |
+| **JcarLabs Corporate** | Corporate website & internal tools | Next.js • JavaScript | [🔗 Repo](https://github.com/jhoncharlesjcar/jcarlabsinc-corp) |
+
+<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoncharlesjcar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncharlesjcar&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoncharlesjcar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncharlesjcar&layout=compact&theme=github_dark" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncharlesjcar&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhoncharlesjcar&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br>
 
 ## 🤝 Let's Build Something Great
 
@@ -75,10 +97,9 @@ I'm currently open to:
 
 **Ready to ship fast, scale smart, and deliver results.**
 
-📧 **Email:** [labsjcar@gmail.com](mailto:labsjcar@gmail.com)
-🐙 **GitHub:** [@jhoncharlesjcar](https://github.com/jhoncharlesjcar)
-
 <div align="center">
+
+📧 **Email:** [labsjcar@gmail.com](mailto:labsjcar@gmail.com) &nbsp;|&nbsp; 🐙 **GitHub:** [@jhoncharlesjcar](https://github.com/jhoncharlesjcar)
 
 **⭐ If you find my work interesting, don't forget to star my repositories!**
 
