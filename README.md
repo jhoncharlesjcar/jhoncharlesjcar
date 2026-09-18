@@ -76,8 +76,8 @@ I build **revenue-generating, production-ready applications** for startups and b
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoncharlesjcar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncharlesjcar&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoncharlesjcar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncharlesjcar&layout=compact&theme=github_dark&cache_seconds=1800" />
 </div>
 
 <div align="center">
@@ -85,7 +85,7 @@ I build **revenue-generating, production-ready applications** for startups and b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhoncharlesjcar&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhoncharlesjcar&theme=github-compact&hide_border=true&cache_seconds=1800" alt="Activity Graph" />
 </div>
 
 <br>
