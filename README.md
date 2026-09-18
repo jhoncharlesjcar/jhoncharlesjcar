@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jhon%20Charles%20Almanacen%20Romero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jhon%20Charles%20Almanacen%20Romero&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Product-Focused+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Production-Ready+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Product-Focused+Developer" />
 </div>
 
 <div align="center">
   <a href="mailto:labsjcar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/51937572570">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://github.com/jhoncharlesjcar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -78,7 +81,7 @@ I build **revenue-generating, production-ready applications** for startups and b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncharlesjcar&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jhoncharlesjcar&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -99,7 +102,7 @@ I'm currently open to:
 
 <div align="center">
 
-📧 **Email:** [labsjcar@gmail.com](mailto:labsjcar@gmail.com) &nbsp;|&nbsp; 🐙 **GitHub:** [@jhoncharlesjcar](https://github.com/jhoncharlesjcar)
+📧 **Email:** [labsjcar@gmail.com](mailto:labsjcar@gmail.com) &nbsp;|&nbsp; 📱 **WhatsApp:** [+51 937 572 570](https://wa.me/51937572570) &nbsp;|&nbsp; 🐙 **GitHub:** [@jhoncharlesjcar](https://github.com/jhoncharlesjcar)
 
 **⭐ If you find my work interesting, don't forget to star my repositories!**
 
